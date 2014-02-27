@@ -2,7 +2,7 @@
 
 from setuptools import setup
 
-requires = ['Django >= 1.4', 'six==1.4.1']
+requires = ['Django >= 1.4', 'six==1.5.2']
 tests_require = requires
 
 setup(
